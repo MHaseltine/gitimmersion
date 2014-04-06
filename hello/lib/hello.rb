@@ -2,5 +2,5 @@
 #Author: Mark Haseltine (mhaseltine@gmail.com)
 name = ARGV.first || "World"
 
-puts "Hello, #{name}!""
+puts "Hello, #{name}!"
 
